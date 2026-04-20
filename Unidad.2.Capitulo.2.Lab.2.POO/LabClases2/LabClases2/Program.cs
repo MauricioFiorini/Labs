@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Clases;
+using System;
+
+B b = new B();
+A a = b;
+a.F();
+b.F();
+a.G();
+b.G();
+Console.ReadKey();
