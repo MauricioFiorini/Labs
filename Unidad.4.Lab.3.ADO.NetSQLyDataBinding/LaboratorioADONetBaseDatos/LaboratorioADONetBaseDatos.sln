@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaboratorioADONetBaseDatos", "LaboratorioADONetBaseDatos.csproj", "{0A75F99B-1FF6-4AF5-A0F2-2D686D8691FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A75F99B-1FF6-4AF5-A0F2-2D686D8691FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A75F99B-1FF6-4AF5-A0F2-2D686D8691FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A75F99B-1FF6-4AF5-A0F2-2D686D8691FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A75F99B-1FF6-4AF5-A0F2-2D686D8691FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCCD945F-F69B-47C3-B21E-657E2A009D5C}
+	EndGlobalSection
+EndGlobal
